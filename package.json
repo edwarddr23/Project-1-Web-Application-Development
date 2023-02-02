@@ -1,0 +1,12 @@
+{
+  "name": "p1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p1.js",
+  "scripts": {
+    "start": "node p1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

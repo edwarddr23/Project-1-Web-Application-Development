@@ -1,0 +1,182 @@
+[
+    {
+        "code": "NYY",
+        "name": "Yankees",
+        "city": "New York",
+        "logo": "https://content.sportslogos.net/logos/53/68/thumbs/1256.gif"
+    },
+    {
+        "code": "TOR",
+        "name": "Blue Jays",
+        "city": "Toronto",
+        "logo": "https://content.sportslogos.net/logos/53/78/thumbs/7889872020.gif"
+    },
+    {
+        "code": "TB",
+        "name": "Rays",
+        "city": "Tampa Bay",
+        "logo": "https://content.sportslogos.net/logos/53/2535/thumbs/253594482019.gif"
+    },
+    {
+        "code": "BAL",
+        "name": "Orioles",
+        "city": "Baltimore",
+        "logo": "https://content.sportslogos.net/logos/53/52/thumbs/5258002019.gif"
+    },
+    {
+        "code": "BOS",
+        "name": "Red Sox",
+        "city": "Boston",
+        "logo": "https://content.sportslogos.net/logos/53/53/thumbs/c0whfsa9j0vbs079opk2s05lx.gif"
+    },
+    {
+        "code": "CLE",
+        "name": "Gaurdians",
+        "city": "Cleveland",
+        "logo": "https://content.sportslogos.net/logos/53/6804/thumbs/680455382022.gif"
+    },
+    {
+        "code": "CWS",
+        "name": "White Sox",
+        "city": "Chicago",
+        "logo": "https://content.sportslogos.net/logos/53/55/thumbs/oxvkprv7v4inf5dgqdebp0yse.gif"
+    },
+    {
+        "code": "MIN",
+        "name": "Twins",
+        "city": "Minnesota",
+        "logo": "https://content.sportslogos.net/logos/53/65/thumbs/peii986yf4l42v3aa3hy0ovlf.gif"
+    },
+    {
+        "code": "DET",
+        "name": "Tigers",
+        "city": "Detroit",
+        "logo": "https://content.sportslogos.net/logos/53/59/thumbs/5989642016.gif"
+    },
+    {
+        "code": "KC",
+        "name": "Royals",
+        "city": "Kansas City",
+        "logo": "https://content.sportslogos.net/logos/53/62/thumbs/6283222019.gif"
+    },
+    {
+        "code": "HOU",
+        "name": "Astros",
+        "city": "Houston",
+        "logo": "https://content.sportslogos.net/logos/53/4929/thumbs/492995032000.gif"
+    },
+    {
+        "code": "SEA",
+        "name": "Mariners",
+        "city": "Seattle",
+        "logo": "https://content.sportslogos.net/logos/53/75/thumbs/1305.gif"
+    },
+    {
+        "code": "LAA",
+        "name": "Angels",
+        "city": "Aneheim",
+        "logo": "https://content.sportslogos.net/logos/53/6521/thumbs/652143892016.gif"
+    },
+    {
+        "code": "TEX",
+        "name": "Rangers",
+        "city": "Texas",
+        "logo": "https://content.sportslogos.net/logos/53/77/thumbs/ajfeh4oqeealq37er15r3673h.gif"
+    },
+    {
+        "code": "OAK",
+        "name": "Athletics",
+        "city": "Oakland",
+        "logo": "https://content.sportslogos.net/logos/53/69/thumbs/6xk2lpc36146pbg2kydf13e50.gif"
+    },
+    {
+        "code": "ATL",
+        "name": "Braves",
+        "city": "Atlanta",
+        "logo": "https://content.sportslogos.net/logos/54/51/thumbs/5124352022.gif"
+    },
+    {
+        "code": "NYM",
+        "name": "Mets",
+        "city": "New York",
+        "logo": "https://content.sportslogos.net/logos/54/67/thumbs/m01gfgeorgvbfw15fy04alujm.gif"
+    },
+    {
+        "code": "PHI",
+        "name": "Phillies",
+        "city": "Philadelphia",
+        "logo": "https://content.sportslogos.net/logos/54/70/thumbs/7075792019.gif"
+    },
+    {
+        "code": "MIA",
+        "name": "Marlins",
+        "city": "Florida",
+        "logo": "https://content.sportslogos.net/logos/54/3637/thumbs/363775442019.gif"
+    },
+    {
+        "code": "WSH",
+        "name": "Nationals",
+        "city": "Washington",
+        "logo": "https://content.sportslogos.net/logos/54/578/thumbs/rcehah9k0kekjkgzm077fflws.gif"
+    },
+    {
+        "code": "STL",
+        "name": "Cardinals",
+        "city": "St. Louis",
+        "logo": "https://content.sportslogos.net/logos/54/72/thumbs/3zhma0aeq17tktge1huh7yok5.gif"
+    },
+    {
+        "code": "MIL",
+        "name": "Brewers",
+        "city": "Milwaukee",
+        "logo": "https://content.sportslogos.net/logos/54/64/thumbs/6464742020.gif"
+    },
+    {
+        "code": "CHC",
+        "name": "Cubs",
+        "city": "Chicago",
+        "logo": "https://content.sportslogos.net/logos/54/54/thumbs/q9gvs07u72gc9xr3395u6jh68.gif"
+    },
+    {
+        "code": "CIN",
+        "name": "Reds",
+        "city": "Cincinnati",
+        "logo": "https://content.sportslogos.net/logos/53/55/thumbs/oxvkprv7v4inf5dgqdebp0yse.gif"
+    },
+    {
+        "code": "PIT",
+        "name": "Pirates",
+        "city": "Pittspurg",
+        "logo": "https://content.sportslogos.net/logos/54/71/thumbs/7112502014.gif"
+    },
+    {
+        "code": "LAD",
+        "name": "Dodgers",
+        "city": "Los Angeles",
+        "logo": "https://content.sportslogos.net/logos/54/63/thumbs/efvfv5b5g1zgpsf56gb04lthx.gif"
+    },
+    {
+        "code": "SD",
+        "name": "Padres",
+        "city": "San Diego",
+        "logo": "https://content.sportslogos.net/logos/54/73/thumbs/7375172020.gif"
+    },
+    {
+        "code": "SF",
+        "name": "Giants",
+        "city": "San Fransisco",
+        "logo": "https://content.sportslogos.net/logos/54/74/thumbs/cpqj6up5bvgpoedg5fwsk20ve.gif"
+    },
+    {
+        "code": "ARI",
+        "name": "Diamondbacks",
+        "city": "Arizona",
+        "logo": "https://content.sportslogos.net/logos/54/50/thumbs/gnnnrbxcmjhdgeu6mavqk3945.gif"
+    },
+    {
+        "code": "COL",
+        "name": "Rockies",
+        "city": "Colorado",
+        "logo": "https://content.sportslogos.net/logos/54/58/thumbs/5868712017.gif"
+    }
+]
