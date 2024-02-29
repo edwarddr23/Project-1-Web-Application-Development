@@ -1,0 +1,186 @@
+[
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "BOS",
+        "wins": "67",
+        "losses": "15"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "MIL",
+        "wins": "57",
+        "losses": "25"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "PHI",
+        "wins": "54",
+        "losses": "28"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "ATL",
+        "wins": "50",
+        "losses": "32"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "DET",
+        "wins": "46",
+        "losses": "36"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "WAS",
+        "wins": "39",
+        "losses": "43"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "NJN",
+        "wins": "39",
+        "losses": "43"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "CHI",
+        "wins": "30",
+        "losses": "52"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "CLE",
+        "wins": "29",
+        "losses": "53"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "IND",
+        "wins": "26",
+        "losses": "56"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Eastern",
+        "team": "NYK",
+        "wins": "29",
+        "losses": "59"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "LAL",
+        "wins": "62",
+        "losses": "20"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "HOU",
+        "wins": "51",
+        "losses": "31"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "DEN",
+        "wins": "47",
+        "losses": "35"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "DAL",
+        "wins": "44",
+        "losses": "29"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "UTH",
+        "wins": "42",
+        "losses": "40"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "POR",
+        "wins": "40",
+        "losses": "42"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "SAC",
+        "wins": "37",
+        "losses": "45"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "SAN",
+        "wins": "35",
+        "losses": "47"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "PHO",
+        "wins": "32",
+        "losses": "50"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "LAC",
+        "wins": "32",
+        "losses": "50"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "SEA",
+        "wins": "31",
+        "losses": "51"
+    },
+    {
+        "year": "1986",
+        "league": "NBA",
+        "division": "Western",
+        "team": "GST",
+        "wins": "30",
+        "losses": "52"
+    }
+]

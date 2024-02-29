@@ -1,0 +1,140 @@
+[
+    {
+        "code": "BOS",
+        "name": "Celtics",
+        "city": "Boston",
+        "logo": "https://content.sportslogos.net/logos/6/213/thumbs/pphdqx7bfbbbumpehh7telq1h.gif"
+    },
+    {
+        "code": "MIL",
+        "name": "Bucks",
+        "city": "Milwakee",
+        "logo": "https://content.sportslogos.net/logos/6/225/thumbs/5318.gif"
+    },
+    {
+        "code": "PHI",
+        "name": "76ers",
+        "city": "Philadelphia",
+        "logo": "https://content.sportslogos.net/logos/6/218/thumbs/b63l7nnxd3bl0cxemi3qahbbp.gif"
+    },
+    {
+        "code": "ATL",
+        "name": "Hawks",
+        "city": "Atlanta",
+        "logo": "https://content.sportslogos.net/logos/53/52/thumbs/5258002019.gif"
+    },
+    {
+        "code": "DET",
+        "name": "Pistons",
+        "city": "Detroit",
+        "logo": "https://content.sportslogos.net/logos/6/223/thumbs/lgv5ssjmmchyoe66kkvh0tlzd.gif"
+    },
+    {
+        "code": "WAS",
+        "name": "Bullets",
+        "city": "Washington",
+        "logo": "https://content.sportslogos.net/logos/6/587/thumbs/5603.gif"
+    },
+    {
+        "code": "NJN",
+        "name": "Nets",
+        "city": "New Jersey",
+        "logo": "https://content.sportslogos.net/logos/6/215/thumbs/5992.gif"
+    },
+    {
+        "code": "CHI",
+        "name": "Bulls",
+        "city": "Chicago",
+        "logo": "https://content.sportslogos.net/logos/6/221/thumbs/hj3gmh82w9hffmeh3fjm5h874.gif"
+    },
+    {
+        "code": "CLE",
+        "name": "Cavaliers",
+        "city": "Cleveland",
+        "logo": "https://content.sportslogos.net/logos/6/222/thumbs/qg1w8t0t6ol9f7sbhv4j3s0s1.gif"
+    },
+    {
+        "code": "IND",
+        "name": "Pacers",
+        "city": "Indiana",
+        "logo": "https://content.sportslogos.net/logos/6/224/thumbs/nrv5bijg56ha3h4f0fvet8aft.gif"
+    },
+    {
+        "code": "NYK",
+        "name": "Knicks",
+        "city": "New York",
+        "logo": "https://content.sportslogos.net/logos/6/216/thumbs/21645401984.gif"
+    },
+    {
+        "code": "LAL",
+        "name": "Lakers",
+        "city": "Los Angeles",
+        "logo": "https://content.sportslogos.net/logos/6/237/thumbs/erj0m2f35x8mna03t78efb5bl.gif"
+    },
+    {
+        "code": "HOU",
+        "name": "Rockets",
+        "city": "Houston",
+        "logo": "https://content.sportslogos.net/logos/6/230/thumbs/eigv3ra8cjkojrywrgcvy6z29.gif"
+    },
+    {
+        "code": "DEN",
+        "name": "Nuggets",
+        "city": "Denver",
+        "logo": "https://content.sportslogos.net/logos/6/229/thumbs/qdcpbu7weno1htqgg5kk10i8o.gif"
+    },
+    {
+        "code": "DAL",
+        "name": "Mavericks",
+        "city": "Dallas",
+        "logo": "https://content.sportslogos.net/logos/6/228/thumbs/22892541981.gif"
+    },
+    {
+        "code": "UTH",
+        "name": "Jazz",
+        "city": "Utah",
+        "logo": "https://content.sportslogos.net/logos/6/234/thumbs/wngsuqhi4laygst4ffe8wfeti.gif"
+    },
+    {
+        "code": "POR",
+        "name": "Trailblazers",
+        "city": "Portland",
+        "logo": "https://content.sportslogos.net/logos/6/239/thumbs/tqua25fagb2dggsfddbbiigh3.gif"
+    },
+    {
+        "code": "SAC",
+        "name": "Kings",
+        "city": "Sacremento",
+        "logo": "https://content.sportslogos.net/logos/6/240/thumbs/zqifh03wxc54qk5ecexgk9ayg.gif"
+    },
+    {
+        "code": "SAN",
+        "name": "Spurs",
+        "city": "San Antonio",
+        "logo": "https://content.sportslogos.net/logos/6/233/thumbs/4719.gif"
+    },
+    {
+        "code": "PHO",
+        "name": "Suns",
+        "city": "Phoenix",
+        "logo": "https://content.sportslogos.net/logos/6/238/thumbs/5328.gif"
+    },
+    {
+        "code": "LAC",
+        "name": "Clippers",
+        "city": "Los Angeles",
+        "logo": "https://content.sportslogos.net/logos/6/236/thumbs/ioxjye9im9phdgfyfxvj1xb71.gif"
+    },
+    {
+        "code": "SEA",
+        "name": "Supersonics",
+        "city": "Seattle",
+        "logo": "https://content.sportslogos.net/logos/6/241/thumbs/cxe7hh6lwjtpdhcoyiuc064sp.gif"
+    },
+    {
+        "code": "GST",
+        "name": "Warriors",
+        "city": "Golden State",
+        "logo": "https://content.sportslogos.net/logos/6/223/thumbs/lgv5ssjmmchyoe66kkvh0tlzd.gif"
+    }
+]

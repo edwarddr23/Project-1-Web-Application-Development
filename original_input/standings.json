@@ -1,0 +1,482 @@
+[
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "East",
+        "team": "NYY",
+        "wins": "99",
+        "losses": "63"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "East",
+        "team": "TOR",
+        "wins": "92",
+        "losses": "70"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "East",
+        "team": "TB",
+        "wins": "86",
+        "losses": "76"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "East",
+        "team": "BAL",
+        "wins": "83",
+        "losses": "79"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "East",
+        "team": "BOS",
+        "wins": "78",
+        "losses": "84"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "Central",
+        "team": "CLE",
+        "wins": "92",
+        "losses": "70"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "Central",
+        "team": "CWS",
+        "wins": "81",
+        "losses": "81"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "Central",
+        "team": "MIN",
+        "wins": "78",
+        "losses": "84"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "Central",
+        "team": "DET",
+        "wins": "66",
+        "losses": "96"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "Central",
+        "team": "KC",
+        "wins": "65",
+        "losses": "97"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "West",
+        "team": "HOU",
+        "wins": "106",
+        "losses": "56"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "West",
+        "team": "SEA",
+        "wins": "90",
+        "losses": "72"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "West",
+        "team": "LAA",
+        "wins": "73",
+        "losses": "89"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "West",
+        "team": "TEX",
+        "wins": "68",
+        "losses": "94"
+    },
+    {
+        "year": "2022",
+        "league": "AL",
+        "division": "West",
+        "team": "OAK",
+        "wins": "60",
+        "losses": "102"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "East",
+        "team": "ATL",
+        "wins": "101",
+        "losses": "61"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "East",
+        "team": "NYM",
+        "wins": "101",
+        "losses": "61"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "East",
+        "team": "PHI",
+        "wins": "87",
+        "losses": "75"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "East",
+        "team": "MIA",
+        "wins": "69",
+        "losses": "93"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "East",
+        "team": "WSH",
+        "wins": "55",
+        "losses": "107"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "Central",
+        "team": "STL",
+        "wins": "93",
+        "losses": "69"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "Central",
+        "team": "MIL",
+        "wins": "86",
+        "losses": "76"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "Central",
+        "team": "CHC",
+        "wins": "74",
+        "losses": "88"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "Central",
+        "team": "CIN",
+        "wins": "62",
+        "losses": "100"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "Central",
+        "team": "PIT",
+        "wins": "62",
+        "losses": "100"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "West",
+        "team": "LAD",
+        "wins": "111",
+        "losses": "51"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "West",
+        "team": "SD",
+        "wins": "89",
+        "losses": "73"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "West",
+        "team": "SF",
+        "wins": "81",
+        "losses": "81"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "West",
+        "team": "ARI",
+        "wins": "74",
+        "losses": "88"
+    },
+    {
+        "year": "2022",
+        "league": "NL",
+        "division": "West",
+        "team": "COL",
+        "wins": "68",
+        "losses": "94"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "East",
+        "team": "TB",
+        "wins": "100",
+        "losses": "62"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "East",
+        "team": "BOS",
+        "wins": "92",
+        "losses": "70"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "East",
+        "team": "NYY",
+        "wins": "92",
+        "losses": "70"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "East",
+        "team": "TOR",
+        "wins": "91",
+        "losses": "71"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "East",
+        "team": "BAL",
+        "wins": "52",
+        "losses": "110"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "Central",
+        "team": "CWS",
+        "wins": "93",
+        "losses": "69"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "Central",
+        "team": "CLE",
+        "wins": "80",
+        "losses": "82"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "Central",
+        "team": "DET",
+        "wins": "77",
+        "losses": "85"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "Central",
+        "team": "KC",
+        "wins": "74",
+        "losses": "88"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "Central",
+        "team": "MIN",
+        "wins": "73",
+        "losses": "89"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "West",
+        "team": "HOU",
+        "wins": "95",
+        "losses": "67"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "West",
+        "team": "SEA",
+        "wins": "90",
+        "losses": "72"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "West",
+        "team": "OAK",
+        "wins": "86",
+        "losses": "76"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "West",
+        "team": "LAA",
+        "wins": "77",
+        "losses": "85"
+    },
+    {
+        "year": "2021",
+        "league": "AL",
+        "division": "West",
+        "team": "TEX",
+        "wins": "60",
+        "losses": "102"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "East",
+        "team": "ATL",
+        "wins": "88",
+        "losses": "73"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "East",
+        "team": "PHI",
+        "wins": "82",
+        "losses": "80"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "East",
+        "team": "NYM",
+        "wins": "77",
+        "losses": "85"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "East",
+        "team": "MIA",
+        "wins": "67",
+        "losses": "95"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "East",
+        "team": "WSH",
+        "wins": "65",
+        "losses": "97"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "Central",
+        "team": "MIL",
+        "wins": "95",
+        "losses": "67"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "Central",
+        "team": "STL",
+        "wins": "90",
+        "losses": "72"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "Central",
+        "team": "CIN",
+        "wins": "83",
+        "losses": "79"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "Central",
+        "team": "CHC",
+        "wins": "71",
+        "losses": "91"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "Central",
+        "team": "PIT",
+        "wins": "61",
+        "losses": "101"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "West",
+        "team": "SF",
+        "wins": "107",
+        "losses": "55"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "West",
+        "team": "LAD",
+        "wins": "106",
+        "losses": "56"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "West",
+        "team": "SD",
+        "wins": "79",
+        "losses": "83"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "West",
+        "team": "COL",
+        "wins": "74",
+        "losses": "87"
+    },
+    {
+        "year": "2021",
+        "league": "NL",
+        "division": "West",
+        "team": "ARI",
+        "wins": "52",
+        "losses": "110"
+    }
+]
